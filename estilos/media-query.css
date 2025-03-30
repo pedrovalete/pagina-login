@@ -6,4 +6,8 @@
           width: 70vw;
           max-width: 600px;
      }
+
+     p.foot > a{
+          color: #24332a;
+     }
 }
