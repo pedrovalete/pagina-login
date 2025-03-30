@@ -4,6 +4,7 @@
 *{
      margin: 0px;
      padding: 0px;
+     max-width: 100%;
      box-sizing: border-box;
      font-family: "Open Sans", sans-serif;
      color: white;
@@ -15,7 +16,10 @@
 }
 
 html, body{
-     overflow-x: hidden;
+     height: 100%;
+     margin: 0;
+     padding: 0;
+     overflow-y: hidden;
 }
 
 body::before{
@@ -124,7 +128,7 @@ a.forgot{
      display: block;
      margin: 15px 0px 40px 0px;
      text-decoration: none;
-     color: #18442c;
+     color: #95c564;
      font-size: 0.85em;
      font-weight: bold;
 }
@@ -141,7 +145,7 @@ p.foot{
 
 p.foot > a{
      text-decoration: none;
-     color: #18442c;
+     color: #95c564;
      font-weight: bold;
 }
 
