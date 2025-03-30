@@ -14,9 +14,8 @@
      --cor02: #2E3F35;
 }
 
-body{
-     width: 100vw;
-     height: 100vh;
+html, body{
+     overflow-x: hidden;
 }
 
 body::before{
