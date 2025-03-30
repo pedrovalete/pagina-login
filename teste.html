@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Login</title>
+     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
+     <link rel="stylesheet" href="estilos/style.css">
+     <link rel="stylesheet" href="estilos/media-query.css">
+</head>
+<body>
+     <main>
+          <section id="login">
+               <div id="form">
+                    <header>
+                         <img src="imagens/logoinfinito.webp" alt="Logo">
+                         <h1>Bem-vindo ao projeto</h1>
+                         <h2>Um simples layout de login.</h2>
+                    </header>
+                    <form action="#" method="post" autocomplete="on">
+                         <div class="campo">
+                              <span class="material-symbols-outlined">account_circle</span>
+                              <input type="email" name="email" id="iemail" required placeholder="Email">
+                              <label for="iemail">E-mail</label>
+                         </div>
+                         <div class="campo">
+                              <span class="material-symbols-outlined">vpn_key</span>
+                              <input type="password" name="senha" id="isenha" required minlength="8" maxlength="20" placeholder="Senha">
+                              <label for="isenha">Senha</label>
+                         </div>
+                         <input type="submit" value="Entrar">                       
+                    </form>                  
+               </div>
+               <footer>
+                    <a href="#" class="forgot">Esqueceu a senha?</a>
+                    <p class="foot">Ainda não tem uma conta? <a href="#">Cadastre-se!</a></p>
+               </footer>
+          </section>
+     </main>
+</body>
+</html>
