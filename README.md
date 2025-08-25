@@ -8,7 +8,7 @@ Este é um projeto de front-end simples que consiste em uma página de login est
 
 ## 💻 Demonstração Visual
 
-![Demonstração da Página de Login](./imagens/vizualiacao_site.png)
+![Demonstração da Página de Login](./imagem_projeto.png)
 
 ### ✨ Funcionalidades
 
