@@ -31,7 +31,7 @@ Como este é um projeto estático, não há necessidade de instalação de depen
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/pedrovalete/pagina-login.git](https://github.com/pedrovalete/pagina-login.git)
+    git clone https://github.com/pedrovalete/pagina-login.git
     ```
 2.  Navegue até o diretório do projeto.
 3.  Abra o arquivo `teste.html` no seu navegador de preferência.
@@ -42,5 +42,5 @@ E pronto, a página será exibida!
 
 Feito por **[Pedro Valete]**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-valete/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-valete-527658380)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrovalete/)
