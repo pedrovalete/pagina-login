@@ -37,7 +37,7 @@ As this is a static project, there is no need to install dependencies.
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/pedrovalete/pagina-login.git](https://github.com/pedrovalete/pagina-login.git)
+    git clone https://github.com/pedrovalete/pagina-login.git
     ```
 2.  Navigate to the project directory.
 3.  Open the `teste.html` file in your preferred browser.
