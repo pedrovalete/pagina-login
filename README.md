@@ -10,7 +10,7 @@ Este é um projeto de front-end simples que consiste em uma página de login est
 
 Você pode visualizar o projeto em funcionamento através do link abaixo:
 
-[**Clique aqui para acessar a página de login**](https://pedrovalete.github.io/pagina-login/)
+[**Clique aqui para acessar a página de login**](https://pedrovalete.github.io/pagina-login/teste.html)
 
 ## 💻 Demonstração Visual
 
